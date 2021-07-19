@@ -1,6 +1,8 @@
 # portfolio
 Repositório com os notebooks feitos por mim em meu desenvolvimento como analista de dados.
 
+Iniciado em Jul/2021
+
 Os aquivos serão organizados da seguinte maneira:
 
   ORDEM DE REALIZAÇÃO_CATEGORIA DO PROJETO_ASSUNTO
